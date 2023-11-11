@@ -1,6 +1,6 @@
 # Responsibility-Donation-Platform
 # Description
-This is a web application that provides a platform for the community to raise charities for noble causes and make donations. It offers users a prominent user interface and additional features such as graphical modeling of statistics and encrypted transmission of data. This project has been developed using HTML, CSS, JavaScript, Bootstrap, SQL, and PHP.
+This is an innovative web application that provides a platform for the community to raise charities for noble causes and make donations. It offers users a prominent user interface and additional features such as graphical modeling of statistics and encrypted transmission of data. This project has been developed using HTML, CSS, JavaScript, Bootstrap, SQL, and PHP.
 
 # Functionalities
 *  Empower users to create fundraising campaigns with detailed descriptions, goals, and deadlines.
