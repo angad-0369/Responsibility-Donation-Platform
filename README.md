@@ -8,3 +8,6 @@ This is an innovative web application that provides a platform for the community
 * Enable users to create personalized profiles, promoting transparency and a sense of community.
 * Seamlessly integrate with popular payment gateways for secure and flexible donations.
 *  Facilitate campaign exploration and discovery for users to find causes aligned with their interests.
+
+# Demo
+https://docs.google.com/document/d/1x65o_mu2Jkce8qv-JKKLLz0_FpvRAkR7/edit?usp=drive_link&ouid=105082855844600507710&rtpof=true&sd=true
